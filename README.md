@@ -14,3 +14,6 @@ I have used pretrained InceptionV3(Transfer Learning) model for extracting featu
 
 Then built a Neural Network of some fully connected layers and the output layer has one sigmoid activation unit which gives the probability score of being pneumonia.
 
+## Some predicted results :
+This is the chest X-Ray image of a person who is normal(Ground truth) :
+![NORMAL_7](https://user-images.githubusercontent.com/41646536/86440066-74d96580-bd27-11ea-8c3c-1baa570243a6.jpeg)  Predicted score=0.068
