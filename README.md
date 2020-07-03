@@ -16,4 +16,7 @@ Then built a Neural Network of some fully connected layers and the output layer 
 
 ## Some predicted results :
 This is the chest X-Ray image of a person who is normal(Ground truth) :
-![NORMAL_7](https://user-images.githubusercontent.com/41646536/86440066-74d96580-bd27-11ea-8c3c-1baa570243a6.jpeg)  Predicted score=0.068
+![NORMAL_7](https://user-images.githubusercontent.com/41646536/86440066-74d96580-bd27-11ea-8c3c-1baa570243a6.jpeg)  Predicted Score=0.068
+
+This is the chest X-Ray image of a person who is suffering from Pneumonia(Ground truth):
+![person1950_bacteria_4881](https://user-images.githubusercontent.com/41646536/86440583-5889f880-bd28-11ea-87ad-904de8523b1a.jpeg)  Predicted Score=0.997
